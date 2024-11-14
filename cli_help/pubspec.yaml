@@ -1,14 +1,13 @@
 name: cli_help
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
+description: Trivial Dart package for serving command-line help from helptext.txt
+version: 1.0.1
 publish_to: none
 
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/my_org/my_repo
 
 environment:
   sdk: ^3.5.4
 
-# Add regular dependencies here.
 dependencies:
   # path: ^1.8.0
 
