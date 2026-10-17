@@ -1,0 +1,18 @@
++default
+
+fff
+ffff
+gggg
+
++command1
+
+that worked for command1
+
++command2
+
+that worked for command2
+
++command2subcommand
+
+that worked for command2 subcommand
+
